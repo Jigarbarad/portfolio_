@@ -80,7 +80,7 @@ const Navbar = () => {
               <Github size={20} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/jigarkumarbarad"
+              href="https://www.linkedin.com/in/jigarbarad09/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
