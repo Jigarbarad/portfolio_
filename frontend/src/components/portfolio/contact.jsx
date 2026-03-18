@@ -65,7 +65,7 @@ const Contact = () => {
     { icon: Mail, label: "Email", value: "jigarkumarbarad@gmail.com", href: "mailto:jigarkumarbarad@gmail.com" },
     { icon: Phone, label: "Phone", value: "+44 07901033851", href: "tel:+4407901033851" },
     { icon: MapPin, label: "Location", value: "Leicester, UK", href: null },
-    { icon: Linkedin, label: "LinkedIn", value: "Connect with me", href: "https://linkedin.com/in/jigarkumarbarad" },
+    { icon: Linkedin, label: "LinkedIn", value: "Connect with me", href: "https://www.linkedin.com/in/jigarbarad09/" },
     { icon: Github, label: "GitHub", value: "View my work", href: "https://github.com/Jigarbarad" },
   ];
 
